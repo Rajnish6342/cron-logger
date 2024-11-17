@@ -1,0 +1,7 @@
+{
+  "retryPolicy": {
+    "enabled": true,
+    "maxRetries": 3,
+    "delay": 5000
+  }
+}
